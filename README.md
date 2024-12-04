@@ -18,7 +18,7 @@ NModbus4 differs from original NModbus in following:
 2. removed log4net dependency
 3. removed Unme.Common.dll dependency
 4. assembly renamed to NModbus4.dll
-5. target framework changed to .NET 4
+5. target framework changed to .NET Framework 4.8 and .NET 9
 
 Install
 =======
